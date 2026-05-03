@@ -1,0 +1,806 @@
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08d8156fc45b950bd53a9b6e977cbefcb0139d0b"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "398c9a6616244f5a6ffa682a0173e59f24dd9ac33d053c491adb28843b206f1b"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+none-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "aarch64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06d28eb259645db01b173338c81d715049e7dfee"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "c6a4e08e38e63094ace0145b7e7da2890a4be966b18ff6e9c2a9189013e86bc3"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.aarch64-linux-gnu-cxx11-cuda+none-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35b46454d7b14c1a4e76069eb6f1cc12385210e9"
+lazy = true
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "1ae8b82be60de069e8e198abe7e6b031c114abfa5f56fe92253960dc0e50a580"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-musl-cxx11-cuda+none-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "aarch64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c260f053f0221f383f6cb19602e7b55aad51e7c4"
+lazy = true
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "10d911d34a5d196aeb697d3dbe2763fd455ade5da557c236487af12b14fa996a"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.aarch64-linux-musl-cxx11-cuda+none-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58caced61785fa43c475490acbc9979e19e9484c"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "b347e4a9d2e9962e07fc432e6c135ad70dbecbcfa9ee1e1f5f9420cd86609c85"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+none-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "aarch64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f266e6b45b7c4146dc1b334d5855d2fe3d8f9b03"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "8ba74adb520403387a48b1d27fab45083e4aa8427ed1b7d40fa8fd6f46ec52db"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.aarch64-linux-gnu-cxx11-cuda+none-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "433b5576cc363d0074a8477f16434f71f05c0565"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "1b9ac94d79a0b8567ae8c1da3597b7266a9893421d58ce23800f8c47e16332c9"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-musl-cxx11-cuda+none-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "aarch64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20e7542e41ef26af61207b4bcd2181eb3bf17598"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "2d772ca08fcdde79f2e5e652789551d07868766a2c18fac3324341249196a3e9"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.aarch64-linux-musl-cxx11-cuda+none-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7b9713dd3592db2f8630633e07635a75dc80458"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "4d1f525c311120db676ace2a008938d4f514a09d737602f33252e65a8fe14fa2"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+none-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "aarch64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3dee286e2cb660f2acd49cdb98ffddcb838eb9e1"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "c2f2fb085cda69b7056feb39a13128d73b722e08fb3b9245994467f66f2ab46a"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.aarch64-linux-gnu-cxx11-cuda+none-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7bb25cc23eff9921c907c79c2a03dbc608e5506b"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "fb6bf27d80cbec99a424dfd1412d553d7172740b5b1cbe1d4212d637e7d13297"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+none-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "aarch64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aeb49fe9aa152d1d6ce4176b3f3bfb233f239023"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "832c679eec1d05b85cba8fb12415eb6c164f49d3a0171dfc6cb8762865e594f8"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.aarch64-linux-gnu-cxx11-cuda+none-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "006a76e699421f1b62af51d39af67f38166a7bd2"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "b92d466eb858fdb74753ee734af9ae050029c3143c87332ea321f59b08125609"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-musl-cxx11-cuda+none-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "aarch64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c57b22cbcc9788577ca417edc0c37b214cabb59c"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "07fc722e238d0cc0b8336463e349dfd5b60ad188b3957758df697bb7a19e626e"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.aarch64-linux-musl-cxx11-cuda+none-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b15543a82037c316b728236bb11427e2522b6e59"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "0d48c4acb2a3bf84dc4ce5887d3a95b91cf8165e96034da8a572fccaa68a6e2d"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.0-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3244ca9d29e0923f154a3b75cc963b6762fd66fd"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "1bc8e57e9c8b96940887f9b30919f1deb8a29306dc1ab79847cb80238aeedcca"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.1-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b83f781dd46e53f10b91952f78a88ec00adee35"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "816e042164c74bd52862dc7e9b7a4e382442bafbee8403a3e9dc16af86caccdf"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.2-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.3"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "efd60ef78cf2b34debcbac7f37b8119ce49b41fb"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "be8f0b1ad2310ba2d60e7ff49a9ebca184df7da0f3c6caf3b560cb3d64e184bf"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.3-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dac5dcf084075267b66db3b9152b76ba495118df"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "c9309c9347fe52f9f57e34f9043bae4ad0aec9e3a8e468ba5226de61fce6585f"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.4-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.5"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7afade8d95dd42d21e1d9fe1080c3ddbd4d47781"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "4d119ec6dcc467620c0324ada919c6e7cdbe251989d6b242895c6999e7e7bd79"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.5-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.6"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c9f2b375c29c3871f4e7d01dfa7523c917e974ef"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "2756e47f30baa42fc8b07a330835da6f31ffe60c35dbeb9e0ffcc63334f843d6"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.6-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d5c8c043642750168985f1f9439ba660da89e15"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "d25e5b8790bf536b9a4363a98e724d4569c137818373461b63c3417ba3ab7330"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.8-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25aa2b0835db0487b8081d280749beb8fe69c9d7"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "861b89c344ba5d3a36ad73bf67c9b95f8d39f9401c780d4bc810d2472e83faff"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.9-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cbc4432292d9401206373f95dde4afbb3804dcfa"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "aa01700766d2ed246d8ecd26a881f054b8acc3df7e6d0fa5266b341ee1f56c6e"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.0-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04cb70d5fd8292b3b29dc405f6523abb256af3c6"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "1defb991585ff99227c3ae15615b32b0d36905a73a89c4cef063e6cf283b631f"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.1-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c3c5da869223f397a93013dcf418e49780341757"
+lazy = true
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "06637e7351bef9fe250daf1b70025bca3da126fcaf042ba6ff4e939c16969cab"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.2-mpi+mpiabi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d023fd4fd12b645b6a0c60f43dec7b2be8470c27"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "34e0d658ffdab02e81a38525c32a75649d501c658e65732b408b6fd9db56b565"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.0-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3bddd777453221d0cbafc8a0c6ef1accecb8be4b"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "371b7868747c81a3d137be033f4bf2aa596a38f39c328d3811370bb9cf545a46"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.1-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1c875aa5ce2b9a8e6b25f0a7d5c7335e2aa5287"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "3ae95ef5c7d2d80a7d28b1f0fa5bd67a26c271478c737669c80d98922bc1cf89"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.2-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.3"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d5981103499449c7e4cc1bade9e74997bbd7c85"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "874ebe6898286b40b1dc60f28d714225853a2b1aeafdd9f0f31156d0618822f1"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.3-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f6f4159342fbde60591ac44aaf9f078c8f8f6ee2"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "ef3322be3dca2d6970502376ef38670d8c2b6dc5a939fadfc99ed182170e88c6"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.4-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.5"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3f4ba3e1c6284e3083f7d22a25250e45044f710"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "6452b78398d7be3e802ad232f3c5a09dc9518d659a0787a5bf10903de9fb619c"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.5-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.6"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b56809fb271c5af8005d551780ba4018d6c3dff1"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "347629d82821a0eea2e81150923c210ef73cb98c1f1798b31b0787c889aecba6"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.6-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5918d218e3829d0a09d769e2c6f944fd3aedbf1d"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "315a2b5e099ba800ccc17b943617f60735cd5fd1ba34c2547b8362bc11c2bd8b"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.8-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7561510d04e9174f2e18f5d47a88c961f6b2dba8"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "52588595f294c9b407c28531dea2f4a9c8a193158a33f65741a2e61b3a0d68b7"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.9-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68b732969e7f9ec9cd071aaafb213c733da3a520"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "92b2ee79a0f03f3dcab2f99d0b7a0305155e860647fe227d4ee571522a9ed33c"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.0-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d913d17f5cfbca8b39fb4e07bdf6e826e5214164"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "bb08cc020f4570e4249f792457c35fab7a321c1d4a1461ded6ce0c40bc1469a4"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.1-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a200966967931a523f8351eadd2c46c29bc7f74"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "f6735cd447d44901914ee82fe09b6dcb01f517cd5a4c3a417bd4cc0599f26eaa"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.2-mpi+mpich.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "214312c04ee34d25eec7e544bbc0a8f19a13ac34"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "94ad03061de9d4fdfa2043c1a5588ac269c387560d63a94ed2d643c9d40d780c"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.0-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c0ac4e4c8c9be2888adfe4d6c872660f13bb5653"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "41d91b706880789ccc9005b1106b95a64c8c902954bc15defc2116b7da676dfc"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.1-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "931b5271c9c8290f4848aeddf565280a4d0cb298"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "7f2f4483045ef1dbc2086aad824b31d47d4b4016e3fd56276750f7db2603c31d"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.2-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.3"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "afea74584ef30a98d289855edbdf17b5bd6fb190"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "40a57055e7580c00e77a2c0f805ce1f345bfd2f6cc84be2852819195351006d6"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.3-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ffad48554e39113baa825d8c14df39ec673acf92"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "e48ddc2acb9e963f3025d7f2debfb65446b30fcdf88fbf4edfe631de410a5481"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.4-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.5"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e68cbefee0ac596f913084d2521f6f5b9fdbda9b"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "5f0b4f4ff1545cd7d181de41a702bd2245c4726c6c0a5bff45e0f4d6762b79aa"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.5-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.6"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c303a88828f62661a0bb34be37bb02e67073c16"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "983ff371ab152c28d659dc7bd8e26890ef06fbb88d43008da90f293596ff1f87"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.6-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73080d4f319b1dde491130a737342ce73396fd6c"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "3e5cafa437831b21bc8a144dcf4a7944ef0a2c8ba85b67dd682683e11a2460c2"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.8-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08dbc2d6179d5a33d6b3b2bb31dabb044b021022"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "9cef1ab1813b434640f2d94169e4426960b5277a01f717b1ad5034bfcd1f8513"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.9-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ded2ff1d7edcc5f0acb278b2e1cdaca7fc6af50"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "c1963ae23e3f39700f515790eecf07d6b1f2ae2607d694973910087d54704c9d"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.0-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5945265a8511125fb333b583fced123a22a5a819"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "ff303092ae9a08311a29a20d4bcde403ce89e7925296c29a7d25dfb78bd6f1e6"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.1-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e6c722a8e5c445dccb156a7924f52e75363832f8"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "1ada4019584679ff537c937880a813f504956dd8c8eb00bfc4b1ee97a5388d50"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.2-mpi+mpitrampoline.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bf80f5254b9805601ffe4d665da469b562495118"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "8a7b0bfaf826cdb63ecb000b1e0bfee7bd6d0b935cc292279b9206f55377e824"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.0-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2821b7de62633b6f325d2621765cd9c238e076a1"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "93984f158cc9fea4c2ab840f61f6162f2b8202f71538e2e5a8a8a79f1278191b"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.1-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fad7993d82db8cf595b01deb2179a1793c7809c"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "73ae7e6ef19b8fce1d59d756e09a1a79b85e97be884af2f93e76eec2b96430a2"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.2-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.3"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8159fff13683d8e0b3683b2bac5c3ee74c93ed48"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "ac029529950f777ec3db06cf7376dd7ad21f08133cd72a62f730d97d5f525d18"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.3-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4e46e2b179a416ceee3486104b699106e5cc3a43"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "cf2295fe0556c76fc8ea74fd08c7ca6f96fae9e0f9ec333ef7416cfeab556473"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.4-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.5"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a85aff717857fee0f2dff9f1995ce3752e29feb0"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "fecf741e282147d3c77e1ea9d21a6b86a7a51dd4c99c27ce0e7410f50936c273"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.5-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.6"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "425b32b81db74e941150b5a5b7ee89de0d77ffbd"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "502d3e8657200093ed5516c2b299ef78597fadd7f81120bdc905f4938f6fb6e4"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.6-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f079b5cd345007c7290443c201038a7dbe7a9f5"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "924c300a08eb54436f4ff53d40e2ac3d7d41158169185079ae364f5852af5c28"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.8-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "12.9"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b70ef24cf96a58dbcb91caf88ad469eeeab95806"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "10dee5c0fd36e24497769733fdb7511c1241173bc5abc1d77793ae83710f952f"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+12.9-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5101ce4c52e946ae578626601bc785a5a4e66668"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "4a18aafd3ea3dfb2f7076b760d1bbe3e1551a0e6b43e465a233c0a45a9e25f65"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.0-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69118504710a53d6638b925ecac38ac1987da559"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "033db4facf1ecd256655dd22a1ae2192cff1280d1c197664c7e51df4ee5d0be3"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.1-mpi+openmpi.tar.gz"
+[[HeFFTe]]
+arch = "x86_64"
+cuda = "13.2"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a08403d46437c7eba95b816f79be6d3ea3cb660"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HeFFTe.download]]
+    sha256 = "8a0f73be7f69288c9cf84f67161cfb1a5308c0573e5552c1a0a0539b89a4756b"
+    url = "https://github.com/JuliaBinaryWrappers/HeFFTe_jll.jl/releases/download/HeFFTe-v2.4.1+0/HeFFTe.v2.4.1.x86_64-linux-gnu-cxx11-cuda+13.2-mpi+openmpi.tar.gz"
