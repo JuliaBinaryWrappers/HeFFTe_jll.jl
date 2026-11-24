@@ -5,11 +5,10 @@ using CompilerSupportLibraries_jll
 using FFTW_jll
 using CUDA_Runtime_jll
 using MPICH_jll
-using CUDA_Driver_jll
 JLLWrappers.@generate_wrapper_header("HeFFTe")
 JLLWrappers.@declare_library_product(libheffte, "libheffte.so.2")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, FFTW_jll, CUDA_Runtime_jll, MPICH_jll, MPIPreferences, CUDA_Driver_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, FFTW_jll, CUDA_Runtime_jll, MPICH_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libheffte,
         "lib/libheffte.so",
